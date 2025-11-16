@@ -1,34 +1,60 @@
-<!--
-## Hi there! I'm Bima Turangga👋
-**bimaturangga/bimaturangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="left">About me</h4>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">I'm currently learning fullstack development by building real-world projects. Excited to connect the dots between a clean frontend and a robust backend.</p>
 
+###
 
-- 🌱 I’m currently learning React Js
--->
+<h4 align="left">My Learning Stack</h4>
 
-#### About Me:
-Welcome! I'm currently learning **fullstack development** by building real-world projects. Excited to connect the dots between a clean frontend and a robust backend.
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+</div>
 
-#### Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bimaturangga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bimaturangga) 
+###
 
-#### Tech Stack:
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-#### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bimaturangga&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bimaturangga&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bimaturangga&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h4 align="left">Connect with me</h4>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/bimaturangga/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/bimaturangga/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/bimaturangga" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="left">My GitHub Stats</h4>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bimaturangga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=bimaturangga&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h4 align="left">My GitHub Activity</h4>
+
+###
+
+<img src="https://raw.githubusercontent.com/bimaturangga/bimaturangga/output/snake.svg" alt="Snake animation" />
+
+###
