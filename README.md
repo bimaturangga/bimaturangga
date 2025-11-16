@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently learning fullstack development by building real-world projects. Excited to connect the dots between a clean frontend and a robust backend.</p>
+<p align="left">I'm currently learning fullstack development by building real-world projects.<br>Excited to connect the dots between a clean frontend and a robust backend.</p>
 
 ###
 
