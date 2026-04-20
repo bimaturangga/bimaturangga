@@ -22,10 +22,6 @@
 
 ###
 
-<h4 align="left">My GitHub Stats</h4>
-
-###
-
 <h4 align="left">My GitHub Activity</h4>
 
 ###
