@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently learning fullstack development by building real-world projects. Excited to connect the dots between a clean frontend and a robust backend.</p>
+<p align="left">I'm currently learning fullstack flutter development by building real-world projects.</p>
 
 ###
 
@@ -14,6 +14,8 @@
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
 </div>
 
